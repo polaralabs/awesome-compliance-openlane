@@ -233,6 +233,7 @@ This list is intended for **compliance officers, risk managers, auditors, and cy
 - [NIST OSCAL](https://pages.nist.gov/OSCAL/) - Open Security Controls Assessment Language for machine-readable compliance.
 - [PRML (Pre-Registered ML Manifest)](https://spec.falsify.dev/v0.1) - Open format binding an ML evaluation claim to a SHA-256 hash before the run, for tamper-evident EU AI Act Article 12/15 evidence. Four byte-equivalent reference implementations; CC BY 4.0.
 - [OpenControl](http://open-control.org/) - YAML-based compliance documentation framework.
+- [SOC 2 Policy Templates](https://github.com/polaralabs/soc2-policy-templates) - Free SOC 2 policy templates, registers and checklists in Word, PDF and Excel, each mapped to the Trust Services Criteria it covers (CC BY 4.0).
 - [Regulations.gov](https://www.regulations.gov/) - US federal regulations repository.
 
 ### Regulatory Data Sources
